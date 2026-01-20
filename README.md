@@ -6,3 +6,4 @@ Relembrar os comandos do git, github e Markdown
 * Comandos do git
 * Github
 * Estrutura do Markdown
+* Merge, branch
